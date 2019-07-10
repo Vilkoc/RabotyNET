@@ -33,6 +33,7 @@ class LoginCase(unittest.TestCase):
 
     def ststst(self):
         print('test')
+	print('ashtashtasht')
 
 
 if __name__ == "__main__":
