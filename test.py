@@ -31,6 +31,10 @@ class LoginCase(unittest.TestCase):
 
         assert result.get_attribute("href") == "http://localhost:4200/users/auth"
 
+    def ststst(self):
+        print('test')
+	print('ashtashtasht')
+
 
 if __name__ == "__main__":
     unittest.main()
